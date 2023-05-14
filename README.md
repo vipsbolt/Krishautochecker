@@ -1,2 +1,2 @@
 # Krishautochecker
-Donate proxy
+yoko
